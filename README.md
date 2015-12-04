@@ -1,0 +1,2 @@
+# FighterPrototype
+прототип файтера
